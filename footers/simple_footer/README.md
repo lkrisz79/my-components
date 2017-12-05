@@ -1,0 +1,1 @@
+Egy egyszerû footer
